@@ -1,0 +1,21 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Django",
+        "type": "python",
+        "request": "launch",
+        "program": "C:\\Users\\AspireE5\\Desktop\\lucky_wheel - Copy (2)\\manage.py",
+        "args": [
+          "runserver"
+        ],
+        "django": true,
+        "console": "integratedTerminal",
+        "env": {
+          "DJANGO_SETTINGS_MODULE": "lucky_wheel.settings"  // Thay 'myproject' bằng tên dự án của bạn
+        },
+        "justMyCode": true
+      }
+    ]
+  }
+  

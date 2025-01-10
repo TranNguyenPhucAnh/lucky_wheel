@@ -1,0 +1,82 @@
+[
+    {
+        "model": "spin.activity",
+        "pk": 1,
+        "fields": {
+            "name": "Laptop",
+            "probability": 0.1,
+            "color": "#3C78D8",
+            "category": "prize"
+        }
+    },
+    {
+        "model": "spin.activity",
+        "pk": 2,
+        "fields": {
+            "name": "iPhone",
+            "probability": 0.1,
+            "color": "#6AA84F",
+            "category": "prize"
+        }
+    },
+    {
+        "model": "spin.activity",
+        "pk": 3,
+        "fields": {
+            "name": "Balo",
+            "probability": 0.1,
+            "color": "#F6B26B",
+            "category": "prize"
+        }
+    },
+    {
+        "model": "spin.activity",
+        "pk": 4,
+        "fields": {
+            "name": "Tai nghe",
+            "probability": 0.1,
+            "color": "#E06666",
+            "category": "prize"
+        }
+    },
+    {
+        "model": "spin.activity",
+        "pk": 5,
+        "fields": {
+            "name": "Voucher 500k",
+            "probability": 0.1,
+            "color": "#3C78D8",
+            "category": "prize"
+        }
+    },
+    {
+        "model": "spin.activity",
+        "pk": 6,
+        "fields": {
+            "name": "Bàn phím",
+            "probability": 0.1,
+            "color": "#6AA84F",
+            "category": "prize"
+        }
+    },
+    {
+        "model": "spin.activity",
+        "pk": 7,
+        "fields": {
+            "name": "Mất lượt",
+            "probability": 0.1,
+            "color": "#F6B26B",
+            "category": "prize"
+        }
+    },
+    {
+        "model": "spin.activity",
+        "pk": 8,
+        "fields": {
+            "name": "Xe máy",
+            "probability": 0.1,
+            "color": "#E06666",
+            "category": "prize"
+        }
+    }
+]
