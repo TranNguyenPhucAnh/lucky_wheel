@@ -1,0 +1,25 @@
+# Hệ điều hành
+.DS_Store
+Thumbs.db
+
+# Thư mục tự động tải
+node_modules/
+vendor/
+__pycache__/
+
+# File IDE/Editor
+.vscode/
+.idea/
+
+# File log
+*.log
+
+# File build
+dist/
+build/
+*.exe
+*.class
+
+# File cấu hình cá nhân
+.env
+config.json
